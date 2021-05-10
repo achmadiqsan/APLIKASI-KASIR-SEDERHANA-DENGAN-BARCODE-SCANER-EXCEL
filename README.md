@@ -9,3 +9,8 @@ https://barcodetopc.com/
 
 https://play.google.com/store/apps/details?id=com.barcodetopc&hl=in&gl=US
 
+NOTE :
+
+FILE FOLDER SUDAH ADA SOURCE CODE NYA
+SEDANGKAN YANG DALAM WINRAR BELUM ADA SOURCE CODE NYA JADI AWAS HATI-HATI FILE NYA TERTIMPA
+
